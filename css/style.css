@@ -3970,4 +3970,16 @@ blockquote{
     width: 250px;
 }
 
+.notice {
+    margin-top: 30px;
+}
+
+.notice span {
+    color: #c9972f !important;
+}
+
+.service-feature-box .service-media img {
+    min-height: 240px;
+}
+
 /* #c9972f */
